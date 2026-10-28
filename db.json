@@ -1,0 +1,69 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "materias": [
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "JS desde cero"
+        },
+        {
+          "nombre": "Node desde cero"
+        }
+      ],
+      "id": "eOKLpl3gCTY"
+    },
+    {
+      "nombre": "Sabri",
+      "materias": [
+        {
+          "nombre": "Farmacologia"
+        },
+        {
+          "nombre": "Biofisica"
+        },
+        {
+          "nombre": "Nutricion deportiva"
+        }
+      ],
+      "id": "UGO7_TWYiho"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Sabrina",
+      "apellido": "Federico",
+      "promedio": 8.2,
+      "id": "omfWWBRSCQo"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "aIO2PLRjJF4"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "JS desde cero",
+      "duracion": 5,
+      "dificultad": "baja",
+      "id": "tFDI8iFO8SY"
+    },
+    {
+      "nombre": "Node desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "qodYmEnsCO4"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "zHB3cxI8DOU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

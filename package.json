@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-json-server",
+  "version": "0.0.1",
+  "description": "servidor con info de cursos",
+  "license": "ISC",
+  "author": "sabri",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+   "start": "json-server --watch db.json"
+  }
+ 
+}
